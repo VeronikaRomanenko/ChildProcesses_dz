@@ -1,0 +1,8 @@
+D:\Романенко Вероника\WindowsFormsApp2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Романенко Вероника\WindowsFormsApp2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Романенко Вероника\WindowsFormsApp2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Романенко Вероника\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Романенко Вероника\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Романенко Вероника\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Романенко Вероника\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Романенко Вероника\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
